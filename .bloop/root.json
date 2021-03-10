@@ -1,0 +1,158 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "root",
+        "directory": "/home/kkorban/xd",
+        "workspaceDir": "/home/kkorban/xd",
+        "sources": [
+            "/home/kkorban/xd/src/main/scala",
+            "/home/kkorban/xd/src/main/scala-3.0.0-RC1",
+            "/home/kkorban/xd/src/main/scala-3",
+            "/home/kkorban/xd/src/main/java",
+            "/home/kkorban/xd/target/scala-3.0.0-RC1/src_managed/main"
+        ],
+        "dependencies": [
+            
+        ],
+        "classpath": [
+            "/home/kkorban/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3.0.0-RC1/3.0.0-RC1/scala3-library_3.0.0-RC1-3.0.0-RC1.jar",
+            "/home/kkorban/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.4/scala-library-2.13.4.jar"
+        ],
+        "out": "/home/kkorban/xd/.bloop/root",
+        "classesDir": "/home/kkorban/xd/.bloop/root/scala-3.0.0-RC1/classes",
+        "resources": [
+            "/home/kkorban/xd/src/main/resources",
+            "/home/kkorban/xd/target/scala-3.0.0-RC1/resource_managed/main"
+        ],
+        "scala": {
+            "organization": "org.scala-lang",
+            "name": "scala-compiler",
+            "version": "3.0.0-RC1",
+            "options": [
+                "-bootclasspath",
+                "/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes"
+            ],
+            "jars": [
+                "/home/kkorban/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3.0.0-RC1/3.0.0-RC1/scala3-compiler_3.0.0-RC1-3.0.0-RC1.jar",
+                "/home/kkorban/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.0.0-RC1/scala3-interfaces-3.0.0-RC1.jar",
+                "/home/kkorban/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3.0.0-RC1/3.0.0-RC1/scala3-library_3.0.0-RC1-3.0.0-RC1.jar",
+                "/home/kkorban/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3.0.0-RC1/3.0.0-RC1/tasty-core_3.0.0-RC1-3.0.0-RC1.jar",
+                "/home/kkorban/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.1.0-scala-1/scala-asm-9.1.0-scala-1.jar",
+                "/home/kkorban/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.3.5/compiler-interface-1.3.5.jar",
+                "/home/kkorban/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-reader/3.15.0/jline-reader-3.15.0.jar",
+                "/home/kkorban/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal/3.15.0/jline-terminal-3.15.0.jar",
+                "/home/kkorban/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jna/3.15.0/jline-terminal-jna-3.15.0.jar",
+                "/home/kkorban/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.4/scala-library-2.13.4.jar",
+                "/home/kkorban/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.7.0/protobuf-java-3.7.0.jar",
+                "/home/kkorban/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.3.0/util-interface-1.3.0.jar",
+                "/home/kkorban/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar"
+            ],
+            "analysis": "/home/kkorban/xd/target/streams/compile/bloopAnalysisOut/_global/streams/inc_compile_3.0.0-RC1.zip",
+            "setup": {
+                "order": "mixed",
+                "addLibraryToBootClasspath": true,
+                "addCompilerToClasspath": false,
+                "addExtraJarsToClasspath": false,
+                "manageBootClasspath": false,
+                "filterLibraryFromClasspath": false
+            }
+        },
+        "java": {
+            "options": [
+                
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "/usr/lib/jvm/java-8-openjdk-amd64/jre",
+                "options": [
+                    "-Duser.dir=/home/kkorban/xd"
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala3-library_3.0.0-RC1",
+                    "version": "3.0.0-RC1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala3-library_3.0.0-RC1",
+                            "path": "/home/kkorban/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3.0.0-RC1/3.0.0-RC1/scala3-library_3.0.0-RC1-3.0.0-RC1.jar"
+                        },
+                        {
+                            "name": "scala3-library_3.0.0-RC1",
+                            "classifier": "sources",
+                            "path": "/home/kkorban/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3.0.0-RC1/3.0.0-RC1/scala3-library_3.0.0-RC1-3.0.0-RC1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.13.4",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "/home/kkorban/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.4/scala-library-2.13.4.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "/home/kkorban/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.4/scala-library-2.13.4-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "library"
+        ]
+    }
+}

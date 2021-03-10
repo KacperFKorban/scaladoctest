@@ -1,0 +1,31 @@
+
+»%src/main/scala/ParamAnnotations.scala*4
+_empty_/ParamAnnotations.
+ *ParamAnnotations€*/
+!_empty_/ParamAnnotations.apply().*apply€*.
+$_empty_/ParamAnnotations.apply().[T]	*T€*M
+0_empty_/ParamAnnotations.paramAnnotationsImpl().*paramAnnotationsImpl€*=
+3_empty_/ParamAnnotations.paramAnnotationsImpl().[T]	*T€*E
+6_empty_/ParamAnnotations.paramAnnotationsImpl().(qctx)  *qctx€*C
+5_empty_/ParamAnnotations.paramAnnotationsImpl().(tpe)  *tpe€2
+ scala/quoted/2
+ scala/2'
+ _empty_/ParamAnnotations.2/
+ !_empty_/ParamAnnotations.apply().22
+ $_empty_/ParamAnnotations.apply().[T]21
+ #scala/quoted/runtime/Expr.splice().2>
+ /0_empty_/ParamAnnotations.paramAnnotationsImpl().22
+0 1$_empty_/ParamAnnotations.apply().[T]2-
+2 2scala/ContextFunction1#apply().2>
+ 0_empty_/ParamAnnotations.paramAnnotationsImpl().2A
+ 3_empty_/ParamAnnotations.paramAnnotationsImpl().[T]2D
+$ (6_empty_/ParamAnnotations.paramAnnotationsImpl().(qctx)2"
+* 0scala/quoted/Quotes#2C
+2 55_empty_/ParamAnnotations.paramAnnotationsImpl().(tpe)2 
+7 ;scala/quoted/Type#2A
+< =3_empty_/ParamAnnotations.paramAnnotationsImpl().[T]2*
+ scala/quoted/Quotes#reflect.2D
+ 6_empty_/ParamAnnotations.paramAnnotationsImpl().(qctx)2#
+
+
+ scala/Predef.`???`().PZ 49654DA072043A83ED004F6D58C70942

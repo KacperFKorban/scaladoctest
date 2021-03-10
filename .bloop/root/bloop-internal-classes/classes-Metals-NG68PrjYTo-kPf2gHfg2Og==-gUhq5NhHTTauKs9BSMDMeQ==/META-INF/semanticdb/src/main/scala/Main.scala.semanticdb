@@ -1,0 +1,132 @@
+
+≈)src/main/scala/Main.scala*
+_empty_/Main.
+ *MainÄ*#
+_empty_/Main.Tree# îÄ*TreeÄ*/
+_empty_/Main.Tree#`<init>`(). Ä@*<init>Ä*"
+_empty_/Main.Tree#[T]	 Ä*TÄ*!
+_empty_/Main.Tree.
+ *TreeÄ*,
+_empty_/Main.Tree.Branch# àÅ*BranchÄ*6
+$_empty_/Main.Tree.Branch#`<init>`(). Ä@*<init>Ä*:
+*_empty_/Main.Tree.Branch#`<init>`().(left) Ä*leftÄ*:
+*_empty_/Main.Tree.Branch#`<init>`().(elem) Ä*elemÄ*<
++_empty_/Main.Tree.Branch#`<init>`().(right) Ä*rightÄ*)
+_empty_/Main.Tree.Branch#[T]	 Ä*TÄ*.
+_empty_/Main.Tree.Branch#left. Ä*leftÄ*.
+_empty_/Main.Tree.Branch#elem. Ä*elemÄ*0
+_empty_/Main.Tree.Branch#right. Ä*rightÄ*-
+ _empty_/Main.Tree.Branch#copy().*copyÄ*-
+#_empty_/Main.Tree.Branch#copy().[T]	*TÄ*3
+&_empty_/Main.Tree.Branch#copy().(left)*leftÄ*3
+&_empty_/Main.Tree.Branch#copy().(elem)*elemÄ*5
+'_empty_/Main.Tree.Branch#copy().(right)*rightÄ*A
+*_empty_/Main.Tree.Branch#copy$default$1().*copy$default$1Ä*7
+-_empty_/Main.Tree.Branch#copy$default$1().[T]	*TÄ*A
+*_empty_/Main.Tree.Branch#copy$default$2().*copy$default$2Ä*7
+-_empty_/Main.Tree.Branch#copy$default$2().[T]	*TÄ*A
+*_empty_/Main.Tree.Branch#copy$default$3().*copy$default$3Ä*7
+-_empty_/Main.Tree.Branch#copy$default$3().[T]	*TÄ*3
+#_empty_/Main.Tree.Branch#ordinal().*ordinalÄ*)
+_empty_/Main.Tree.Branch#_1().*_1Ä*)
+_empty_/Main.Tree.Branch#_2().*_2Ä*)
+_empty_/Main.Tree.Branch#_3().*_3Ä**
+_empty_/Main.Tree.Branch.
+ *BranchÄ*/
+!_empty_/Main.Tree.Branch.apply().*applyÄ*.
+$_empty_/Main.Tree.Branch.apply().[T]	*TÄ*4
+'_empty_/Main.Tree.Branch.apply().(left)*leftÄ*4
+'_empty_/Main.Tree.Branch.apply().(elem)*elemÄ*6
+(_empty_/Main.Tree.Branch.apply().(right)*rightÄ*3
+#_empty_/Main.Tree.Branch.unapply().*unapplyÄ*0
+&_empty_/Main.Tree.Branch.unapply().[T]	*TÄ*4
+(_empty_/Main.Tree.Branch.unapply().(x$1)*x$1Ä*5
+$_empty_/Main.Tree.Branch.toString().*toStringÄ*(
+_empty_/Main.Tree.Leaf# àÅ*LeafÄ*4
+"_empty_/Main.Tree.Leaf#`<init>`(). Ä@*<init>Ä*8
+(_empty_/Main.Tree.Leaf#`<init>`().(elem) Ä*elemÄ*'
+_empty_/Main.Tree.Leaf#[T]	 Ä*TÄ*,
+_empty_/Main.Tree.Leaf#elem. Ä*elemÄ*+
+_empty_/Main.Tree.Leaf#copy().*copyÄ*+
+!_empty_/Main.Tree.Leaf#copy().[T]	*TÄ*1
+$_empty_/Main.Tree.Leaf#copy().(elem)*elemÄ*?
+(_empty_/Main.Tree.Leaf#copy$default$1().*copy$default$1Ä*5
++_empty_/Main.Tree.Leaf#copy$default$1().[T]	*TÄ*1
+!_empty_/Main.Tree.Leaf#ordinal().*ordinalÄ*'
+_empty_/Main.Tree.Leaf#_1().*_1Ä*&
+_empty_/Main.Tree.Leaf.
+ *LeafÄ*-
+_empty_/Main.Tree.Leaf.apply().*applyÄ*,
+"_empty_/Main.Tree.Leaf.apply().[T]	*TÄ*2
+%_empty_/Main.Tree.Leaf.apply().(elem)*elemÄ*1
+!_empty_/Main.Tree.Leaf.unapply().*unapplyÄ*.
+$_empty_/Main.Tree.Leaf.unapply().[T]	*TÄ*2
+&_empty_/Main.Tree.Leaf.unapply().(x$1)*x$1Ä*3
+"_empty_/Main.Tree.Leaf.toString().*toStringÄ*.
+_empty_/Main.Tree.TreeEnd. Ä©*TreeEndÄ*4
+ _empty_/Main.Tree.fromOrdinal().*fromOrdinalÄ*9
+)_empty_/Main.Tree.fromOrdinal().(ordinal)*ordinalÄ*'
+_empty_/Main$package. *_empty_Ä*+
+_empty_/Main$package.hello().*helloÄ*
+local0 Ä*
+AttributedÄ*
+local1 Ä*pÄ*
+local2*copyÄ*
+local3*copy$default$1Ä*
+local4*_1Ä*
+local5
+ *
+AttributedÄ*
+local6*applyÄ*
+local7*unapplyÄ*
+local8*x$1Ä*
+local9*toStringÄ*+
+local10*$lessinit$greater$default$1Ä*
+_empty_/hello# *helloÄ*+
+_empty_/hello#`<init>`(). Ä@*<init>Ä*%
+_empty_/hello#main(). Ä *mainÄ*(
+_empty_/hello#main().(args)*argsÄ*
+local11 Ä*errorÄ2
+ _empty_/Main.2
+ 
+scala/App#2 
+ _empty_/Main.Tree#2+
+ _empty_/Main.Tree#`<init>`().2#
+ _empty_/Main.Tree#[T]2'
+	 _empty_/Main.Tree.Branch#22
+ $_empty_/Main.Tree.Branch#`<init>`().2 
+ _empty_/Main.Tree#2*
+ _empty_/Main.Tree.Branch#[T]2*
+% &_empty_/Main.Tree.Branch#[T]2 
+/ 3_empty_/Main.Tree#2*
+4 5_empty_/Main.Tree.Branch#[T]2+
+G G_empty_/Main.Tree#`<init>`().2 
+@ D_empty_/Main.Tree#2*
+E F_empty_/Main.Tree.Branch#[T]2,
+ _empty_/Main.Tree.Branch#left.2,
+ #_empty_/Main.Tree.Branch#elem.2-
+( -_empty_/Main.Tree.Branch#right.2%
+	 _empty_/Main.Tree.Leaf#20
+ "_empty_/Main.Tree.Leaf#`<init>`().2(
+ _empty_/Main.Tree.Leaf#[T]2+
+& &_empty_/Main.Tree#`<init>`().2 
+ #_empty_/Main.Tree#2(
+$ %_empty_/Main.Tree.Leaf#[T]2*
+ _empty_/Main.Tree.Leaf#elem.2(
+	 _empty_/Main.Tree.TreeEnd.2+
+& &_empty_/Main.Tree#`<init>`().2 
+ _empty_/Main.Tree#2
+ %scala/Nothing#2&
+& &scala/runtime/EnumValue#2
+_empty_/Main$package.2
+ scala/main#2+
+
+ _empty_/Main$package.hello().2
+ scala/Unit#2
+ local02
+ local12
+_empty_/hello#2#
+_empty_/hello#`<init>`().2'
+_empty_/Main$package.hello().23
+)scala/util/CommandLineParser.showError().2
+local11PZ 045E0F4F3FCE021F53D37A5111D81021

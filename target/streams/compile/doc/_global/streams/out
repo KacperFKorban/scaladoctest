@@ -1,0 +1,32 @@
+[0m[[0m[31merror[0m] [0m[0mUnresolved scala3doc artifact[0m
+[0m[[0m[31merror[0m] [0m[0madd 'ThisBuild / resolvers += Resolver.JCenterRepository'[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation to /home/kkorban/xd/target/scala-3.0.0-RC1/api...[0m
+[0m[[0m[0mdebug[0m] [0m[0mReturning already retrieved and compiled bridge: /home/kkorban/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.0.0-RC1/scala3-sbt-bridge-3.0.0-RC1.jar.[0m
+[0m[[0m[0mdebug[0m] [0m[0mCalling Dottydoc with arguments  (ScaladocInterface):[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-d[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/kkorban/xd/target/scala-3.0.0-RC1/api[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-project[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xd[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-project[0m
+[0m[[0m[0mdebug[0m] [0m[0m	xd[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-from-tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/kkorban/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3.0.0-RC1/3.0.0-RC1/scala3-library_3.0.0-RC1-3.0.0-RC1.jar:/home/kkorban/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.4/scala-library-2.13.4.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/kkorban/xd/___fake___.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/kkorban/xd/target/scala-3.0.0-RC1/classes/DefaultValues.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/kkorban/xd/target/scala-3.0.0-RC1/classes/Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/kkorban/xd/target/scala-3.0.0-RC1/classes/Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/kkorban/xd/target/scala-3.0.0-RC1/classes/ParamAnnotations.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/kkorban/xd/target/scala-3.0.0-RC1/classes/hello.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/kkorban/xd/target/scala-3.0.0-RC1/classes/xd/Ann.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/kkorban/xd/target/scala-3.0.0-RC1/classes/xd/Blue.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/kkorban/xd/target/scala-3.0.0-RC1/classes/xd/Color.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/kkorban/xd/target/scala-3.0.0-RC1/classes/xd/Green.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/kkorban/xd/target/scala-3.0.0-RC1/classes/xd/Red.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/kkorban/xd/target/scala-3.0.0-RC1/classes/xd/Tree.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/kkorban/xd/target/scala-3.0.0-RC1/classes/xd/XD.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning `-from-tasty`, excluding source files:[0m
+[0m[[0m[33mwarn[0m] [0m[0mFlag -project set repeatedly[0m
+[0m[[0m[33mwarn[0m] [0m[0mbad option '-from-tasty' was ignored[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation successful.[0m

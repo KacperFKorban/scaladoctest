@@ -1,0 +1,35 @@
+
+çsrc/main/scala/xd/XD.scala*
+xd/XD# Ä*XDÄ*#
+xd/XD#`<init>`(). Ä@*<init>Ä*!
+xd/XD#`<init>`().(i) Ä*iÄ*!
+xd/XD#`<init>`().(s) Ä*sÄ*
+xd/XD#i. Ä*iÄ*
+xd/XD#s. Ä*sÄ*
+xd/XD#copy().*copyÄ*
+xd/XD#copy().(i)*iÄ*
+xd/XD#copy().(s)*sÄ*.
+xd/XD#copy$default$1().*copy$default$1Ä*.
+xd/XD#copy$default$2().*copy$default$2Ä*
+xd/XD#_1().*_1Ä*
+xd/XD#_2().*_2Ä*
+xd/XD.
+ *XDÄ*
+xd/XD.apply().*applyÄ*
+xd/XD.apply().(i)*iÄ*
+xd/XD.apply().(s)*sÄ* 
+xd/XD.unapply().*unapplyÄ*!
+xd/XD.unapply().(x$1)*x$1Ä*"
+xd/XD.toString().*toStringÄ2
+ 
+xd/2
+ xd/XD#2
+ xd/XD#`<init>`().2
+ xd/Ann#2
+ 
+scala/Int#2"
+ scala/Predef.String#2
+ xd/Ann#2
+
+ xd/XD#i.2
+ xd/XD#s.PZ 68DA37455C63DC54AB61FFC76416B2A2

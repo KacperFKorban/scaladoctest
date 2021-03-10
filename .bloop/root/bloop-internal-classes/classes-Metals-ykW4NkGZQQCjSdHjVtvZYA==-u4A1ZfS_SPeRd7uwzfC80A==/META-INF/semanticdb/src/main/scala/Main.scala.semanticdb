@@ -1,0 +1,78 @@
+
+˜src/main/scala/Main.scala*'
+_empty_/Main$package. *_empty_€*+
+_empty_/Main$package.hello().*hello€*
+local0 €*MyAnnotation€*
+local1 €*order€*
+local2*copy€*
+local3*copy$default$1€*
+local4*_1€*
+local5
+ *MyAnnotation€*
+local6*apply€*
+local7*unapply€*
+local8*x$1€*
+local9*toString€*#
+local10 €*MyTypeAnnotation€*
+local11 €*order€*
+local12*copy€*
+local13*copy$default$1€*
+local14*_1€*"
+local15
+ *MyTypeAnnotation€*
+local16*apply€*
+local17*unapply€*
+local18*x$1€*
+local19*toString€*
+local20 €*
+Attributed€*
+local21 €*p1€*
+local22 €*p2€*
+local23*copy€*
+local24*copy$default$1€*
+local25*copy$default$2€*
+local26*_1€*
+local27*_2€*
+local28
+ *
+Attributed€*
+local29*apply€*
+local30*unapply€*
+local31*x$1€*
+local32*toString€*
+_empty_/hello# *hello€*+
+_empty_/hello#`<init>`(). €@*<init>€*%
+_empty_/hello#main(). € *main€*(
+_empty_/hello#main().(args)*args€*
+local33 €*error€2
+_empty_/Main$package.2
+ scala/main#2+
+
+ _empty_/Main$package.hello().2
+ scala/Unit#2
+ local020
+? O"scala/annotation/StaticAnnotation#2
+4 >scala/annotation/2
+. 3scala/2
+ local12
+ local1020
+C S"scala/annotation/StaticAnnotation#2
+8 Bscala/annotation/2
+2 7scala/2
+ #local112
+ local02
+ (local202
+ local02
+ local212
+ local02
+ local222'
+		 	scala/Predef.println(+1).2,
+		 _empty_/DefaultValues.apply().2$
+	
+	 _empty_/DefaultValues.2
+		 "local202
+_empty_/hello#2#
+_empty_/hello#`<init>`().2'
+_empty_/Main$package.hello().23
+)scala/util/CommandLineParser.showError().2
+local33PZ 7E0ADCEB87133C55B962DB32D319FA38

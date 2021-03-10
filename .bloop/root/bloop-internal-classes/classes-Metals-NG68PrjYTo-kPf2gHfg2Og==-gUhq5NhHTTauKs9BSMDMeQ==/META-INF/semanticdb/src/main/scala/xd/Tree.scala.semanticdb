@@ -1,0 +1,96 @@
+
+èsrc/main/scala/xd/Tree.scala*
+xd/Tree# îÄ*TreeÄ*%
+xd/Tree#`<init>`(). Ä@*<init>Ä*
+xd/Tree#[T]	 Ä*TÄ*
+xd/Tree.
+ *TreeÄ*"
+xd/Tree.Branch# àÅ*BranchÄ*,
+xd/Tree.Branch#`<init>`(). Ä@*<init>Ä*0
+ xd/Tree.Branch#`<init>`().(left) Ä*leftÄ*0
+ xd/Tree.Branch#`<init>`().(elem) Ä*elemÄ*2
+!xd/Tree.Branch#`<init>`().(right) Ä*rightÄ*
+xd/Tree.Branch#[T]	 Ä*TÄ*$
+xd/Tree.Branch#left. Ä*leftÄ*$
+xd/Tree.Branch#elem. Ä*elemÄ*&
+xd/Tree.Branch#right. Ä*rightÄ*#
+xd/Tree.Branch#copy().*copyÄ*#
+xd/Tree.Branch#copy().[T]	*TÄ*)
+xd/Tree.Branch#copy().(left)*leftÄ*)
+xd/Tree.Branch#copy().(elem)*elemÄ*+
+xd/Tree.Branch#copy().(right)*rightÄ*7
+ xd/Tree.Branch#copy$default$1().*copy$default$1Ä*-
+#xd/Tree.Branch#copy$default$1().[T]	*TÄ*7
+ xd/Tree.Branch#copy$default$2().*copy$default$2Ä*-
+#xd/Tree.Branch#copy$default$2().[T]	*TÄ*7
+ xd/Tree.Branch#copy$default$3().*copy$default$3Ä*-
+#xd/Tree.Branch#copy$default$3().[T]	*TÄ*)
+xd/Tree.Branch#ordinal().*ordinalÄ*
+xd/Tree.Branch#_1().*_1Ä*
+xd/Tree.Branch#_2().*_2Ä*
+xd/Tree.Branch#_3().*_3Ä* 
+xd/Tree.Branch.
+ *BranchÄ*%
+xd/Tree.Branch.apply().*applyÄ*$
+xd/Tree.Branch.apply().[T]	*TÄ**
+xd/Tree.Branch.apply().(left)*leftÄ**
+xd/Tree.Branch.apply().(elem)*elemÄ*,
+xd/Tree.Branch.apply().(right)*rightÄ*)
+xd/Tree.Branch.unapply().*unapplyÄ*&
+xd/Tree.Branch.unapply().[T]	*TÄ**
+xd/Tree.Branch.unapply().(x$1)*x$1Ä*+
+xd/Tree.Branch.toString().*toStringÄ*
+xd/Tree.Leaf# àÅ*LeafÄ**
+xd/Tree.Leaf#`<init>`(). Ä@*<init>Ä*.
+xd/Tree.Leaf#`<init>`().(elem) Ä*elemÄ*
+xd/Tree.Leaf#[T]	 Ä*TÄ*"
+xd/Tree.Leaf#elem. Ä*elemÄ*!
+xd/Tree.Leaf#copy().*copyÄ*!
+xd/Tree.Leaf#copy().[T]	*TÄ*'
+xd/Tree.Leaf#copy().(elem)*elemÄ*5
+xd/Tree.Leaf#copy$default$1().*copy$default$1Ä*+
+!xd/Tree.Leaf#copy$default$1().[T]	*TÄ*'
+xd/Tree.Leaf#ordinal().*ordinalÄ*
+xd/Tree.Leaf#_1().*_1Ä*
+xd/Tree.Leaf.
+ *LeafÄ*#
+xd/Tree.Leaf.apply().*applyÄ*"
+xd/Tree.Leaf.apply().[T]	*TÄ*(
+xd/Tree.Leaf.apply().(elem)*elemÄ*'
+xd/Tree.Leaf.unapply().*unapplyÄ*$
+xd/Tree.Leaf.unapply().[T]	*TÄ*(
+xd/Tree.Leaf.unapply().(x$1)*x$1Ä*)
+xd/Tree.Leaf.toString().*toStringÄ*$
+xd/Tree.TreeEnd. Ä©*TreeEndÄ**
+xd/Tree.fromOrdinal().*fromOrdinalÄ*/
+xd/Tree.fromOrdinal().(ordinal)*ordinalÄ2
+ 
+xd/2
+ 	xd/Tree#2!
+	 	xd/Tree#`<init>`().2
+ xd/Tree#[T]2
+ xd/Tree.Branch#2(
+ xd/Tree.Branch#`<init>`().2
+ xd/Tree#2 
+ xd/Tree.Branch#[T]2 
+# $xd/Tree.Branch#[T]2
+- 1xd/Tree#2 
+2 3xd/Tree.Branch#[T]2!
+E Exd/Tree#`<init>`().2
+> Bxd/Tree#2 
+C Dxd/Tree.Branch#[T]2"
+ xd/Tree.Branch#left.2"
+ !xd/Tree.Branch#elem.2#
+& +xd/Tree.Branch#right.2
+ xd/Tree.Leaf#2&
+ xd/Tree.Leaf#`<init>`().2
+ xd/Tree.Leaf#[T]2!
+$ $xd/Tree#`<init>`().2
+ !xd/Tree#2
+" #xd/Tree.Leaf#[T]2 
+ xd/Tree.Leaf#elem.2
+ xd/Tree.TreeEnd.2!
+$ $xd/Tree#`<init>`().2
+ xd/Tree#2
+ #scala/Nothing#2&
+$ $scala/runtime/EnumValue#PZ 11FF1DAC918CA691366638F00560B792
